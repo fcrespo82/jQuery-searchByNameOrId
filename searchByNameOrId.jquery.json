@@ -7,7 +7,7 @@
         "name",
         "id"
     ],
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": {
         "name": "Fernando Xavier de Freitas Crespo",
         "url": "https://github.com/fcrespo82/jQuery-searchByNameOrId/blob/0.1.0/AUTHORS.txt"
@@ -21,7 +21,7 @@
     "bugs": "https://github.com/fcrespo82/jQuery-searchByNameOrId/issues",
     "homepage": "https://github.com/fcrespo82/jQuery-searchByNameOrId",
     "docs": "https://github.com/fcrespo82/jQuery-searchByNameOrId",
-    "download": "http://code.jquery.com/#searchByNameOrId",
+    "download": "http://plugins.jquery.com/searchbynameorid/",
     "dependencies": {
         "jquery": ">=1.3"
     }
