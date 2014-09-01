@@ -1,0 +1,28 @@
+{
+    "name": "searchByNameOrId",
+    "title": "jQuery searchByNameOrId",
+    "description": "jQuery plugin for searching an element in DOM by name or Id.",
+    "keywords": [
+        "search",
+        "name",
+        "id"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Fernando Xavier de Freitas Crespo",
+        "url": "https://github.com/fcrespo82/jQuery-searchByNameOrId/blob/0.1.0/AUTHORS.txt"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/fcrespo82/jQuery-searchByNameOrId/blob/0.1.0/LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/fcrespo82/jQuery-searchByNameOrId/issues",
+    "homepage": "https://github.com/fcrespo82/jQuery-searchByNameOrId",
+    "docs": "https://github.com/fcrespo82/jQuery-searchByNameOrId",
+    "download": "http://code.jquery.com/#searchByNameOrId",
+    "dependencies": {
+        "jquery": ">=1.3"
+    }
+}
